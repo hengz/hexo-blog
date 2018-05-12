@@ -4,9 +4,23 @@
 
 # Hexo
 
-直接阅读Hexo官方文档，搭建好博客
+直接阅读Hexo官方文档，搭建好博客。
 
 `npm install hexo-cli -g `
+
+博客目录建成后在source/_posts目录下新建文章，或通过命令`hexo new`新建文章。
+
+生成博客
+
+`hexo g`
+
+发布博客
+
+`hexo d`
+
+
+
+
 
 # Github Pages
 
